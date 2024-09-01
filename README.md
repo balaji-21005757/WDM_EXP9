@@ -1,6 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
 ### DATE: 
-### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
+### AIM: 
+To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
 RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, 
@@ -26,5 +27,12 @@ for this purpose.
 
 
 ### Output:
+![image](https://github.com/user-attachments/assets/3b593ada-6297-4005-bd3d-fab7ca9f9775)
+![image](https://github.com/user-attachments/assets/59d14f67-cfcc-45dc-b822-0b197282ef46)
+![image](https://github.com/user-attachments/assets/b90da21c-13fb-475f-bca9-4d3060a40f77)
+
+![image](https://github.com/user-attachments/assets/e69ed02f-5f90-41f1-a706-79753836a862)
+
 
 ### Result:
+Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
